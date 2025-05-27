@@ -27,12 +27,17 @@ Welcome! This repository presents **Aetherium**, a feature concept designed for 
 
 In-depth documentation of the Aetherium platform vision, design thinking, success metrics, and rollout plan.
 
-### 🎥 2. Prototype Video  
+### 🧾 1. Live Prototype (Hosted)
+[🔗 View Hosted Link](https://echo-verse-board.lovable.app/)
+
+Interactive, hosted version of the Aetherium EchoBoard: create, schedule, and view Echoes in a simulated mixed reality workspace. Best viewed on desktop.
+
+### 🎥 3. Prototype Video  
 [▶️ Watch the Aetherium Demo](Demo/Atherium.mp4)
 
 Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, and display.
 
-### 📄 3. Summary PDF  
+### 📄 4. Summary PDF  
 [📥 Download Summary PDF](Summary/Aetherium_Summary.pdf)
 
 Concise overview of the proposal — key problem, user value, MVP scope, and roadmap.
