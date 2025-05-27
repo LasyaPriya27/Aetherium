@@ -43,7 +43,6 @@ Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, an
 Concise overview of the proposal — key problem, user value, MVP scope, and roadmap.
 
 ---
----
 
 ## 🧭 Walkthrough – How to Use the EchoBoard
 
