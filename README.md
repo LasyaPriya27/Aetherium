@@ -23,12 +23,12 @@ Welcome! This repository presents **Aetherium**, a feature concept designed for 
 ## 📎 Deliverables
 
 ### 📄 1. Summary PDF  
-[📥 Download Summary PDF](./Aetherium_Summary.pdf)
+[📥 Download Summary PDF](Summary/Aetherium_Summary.pdf)
 
 Concise overview of the proposal — key problem, user value, MVP scope, and roadmap.
 
 ### 🎥 2. Prototype Video  
-[▶️ Watch the Aetherium Demo](./Aetherium.mp4)
+[▶️ Watch the Aetherium Demo](Demo/Aetherium.mp4)
 
 Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, and display.
 
