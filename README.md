@@ -100,7 +100,7 @@ These improve clarity and are foundational for future filtering/sorting.
 
 - Clean, modern UI with time-based Echo scheduling
 - Echo expiration indicators (e.g., “Expires in 54 min”)
-- Floating controls: `+ Echo`, `My Echoes`
+- Floating controls: `New Echo` - To add an echo, `Archive` -  To view the created echoes
 - Shared & personal Echo types
 - Contextual UI ready for mixed reality layering
 
