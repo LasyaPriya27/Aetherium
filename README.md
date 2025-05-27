@@ -22,20 +22,22 @@ Welcome! This repository presents **Aetherium**, a feature concept designed for 
 ```
 ## 📎 Deliverables
 
-### 📄 1. Summary PDF  
+### 🧾 1. Full Proposal (Notion)  
+[🔗 View Notion Document](https://coherent-dugout-3c4.notion.site/Feature-Platform-Proposal-Aetherium-The-Living-World-Engine-1ff7279ab99a80928648eab3b21c0c9f)
+
+In-depth documentation of the Aetherium platform vision, design thinking, success metrics, and rollout plan.
+
+### 🎥 2. Prototype Video  
+[▶️ Watch the Aetherium Demo](Demo/Atherium.mp4)
+
+Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, and display.
+
+### 📄 3. Summary PDF  
 [📥 Download Summary PDF](Summary/Aetherium_Summary.pdf)
 
 Concise overview of the proposal — key problem, user value, MVP scope, and roadmap.
 
-### 🎥 2. Prototype Video  
-[▶️ Watch the Aetherium Demo](Demo/Aetherium.mp4)
 
-Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, and display.
-
-### 🧾 3. Full Proposal (Notion)  
-[🔗 View Notion Document](https://coherent-dugout-3c4.notion.site/Feature-Platform-Proposal-Aetherium-The-Living-World-Engine-1ff7279ab99a80928648eab3b21c0c9f)
-
-In-depth documentation of the Aetherium platform vision, design thinking, success metrics, and rollout plan.
 
 ---
 
