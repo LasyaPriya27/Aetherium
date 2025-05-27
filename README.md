@@ -42,9 +42,57 @@ Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, an
 
 Concise overview of the proposal — key problem, user value, MVP scope, and roadmap.
 
+---
+---
 
+## 🧭 Walkthrough – How to Use the EchoBoard
+
+### 🏠 1️⃣ Home / Camera View
+Upon loading, you enter the **main EchoBoard interface** — simulating a live AR camera.
+
+**You’ll see two primary controls:**
+- 📍 **My Echoes** – Opens a scrollable list of saved Echoes.
+- ➕ **Drop Echo** – Opens the Echo creation modal.
 
 ---
+
+### ➕ 2️⃣ Create a New Echo
+Click **Drop Echo** and:
+- ✍️ Type your Echo message (e.g., “Meeting at 10 AM”).
+- ✅ Click **Save** to pin the Echo to your EchoBoard.
+
+---
+
+### 📄 3️⃣ View & Manage Your Echoes
+Click **My Echoes** to see all your current Echoes.
+
+Each Echo card includes:
+- 🎨 **Color-coded category** tag (Meeting, Reminder, Task, etc.)
+- 🧾 Echo note text
+- ⏰ Countdown timer until expiry
+- ✅ **Mark as Done** – completes and hides the Echo
+- 🗑 **Delete** – removes the Echo immediately
+
+---
+
+### 👥 4️⃣ Shared Echoes
+Echoes marked as **“Shared”** are visible to all team members.
+Useful for group reminders, events, or shared task coordination.
+
+---
+
+### 🎨 5️⃣ Color Tags
+Echoes are labeled with default categories like:
+- 🟦 Meeting
+- 🟩 Reminder
+- 🟧 Task
+- 🟥 Urgent
+- 🟪 Shared
+
+These improve clarity and are foundational for future filtering/sorting.
+
+---
+
 
 ## ✨ Prototype Features Highlighted
 
