@@ -19,7 +19,8 @@ Welcome! This repository presents **Aetherium**, a feature concept designed for 
 ├── Demo
 │    └── GoogleDriveDemoLink.md
 ├── Summary
-│    └── Aetherium_Summary.pdf
+│    ├── Aetherium_Summary.pdf
+│    └── NotionLink.md
 └── README.md
 ```
 ## 📎 Deliverables
