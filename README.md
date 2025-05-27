@@ -53,9 +53,9 @@ In-depth documentation of the Aetherium platform vision, design thinking, succes
 
 **Lasya Priya**  
 Product Analyst Intern  
-📧 [your-email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)
+📧 [lasyapriya.275@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohanalasyapriya/)
 
 ---
 
-© 2025 Lasya Priya • For Product Management Internship Submission
+© 2025 Lasya Priya
