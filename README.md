@@ -36,7 +36,7 @@ In-depth documentation of the Aetherium platform vision, design thinking, succes
 Interactive, hosted version of the Aetherium EchoBoard: create, schedule, and view Echoes in a simulated mixed reality workspace. Best viewed on desktop.
 
 ### 🎥 3. Prototype Video  
-[▶️ Watch the Aetherium Demo](Demo/Atherium.mp4)
+[▶️ Watch the Aetherium Demo](https://drive.google.com/file/d/1Mc51TV0zMyfd0Y_-IFpxovjrQcaUIPKt/view?usp=sharing)
 
 Live walkthrough of the EchoBoard UI — including Echo creation, scheduling, and display.
 
