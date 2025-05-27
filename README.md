@@ -15,10 +15,12 @@ Welcome! This repository presents **Aetherium**, a feature concept designed for 
 ---
 ## 📁 Repository Structure
 ```bash
-📁 aetherium-prototype
-├── README.md
-├── Aetherium.mp4
-└── Aetherium_Summary.pdf
+📁 Aetherium
+├── Demo
+│    └── Aetherium.mp4
+├── Summary
+│    └── Aetherium_Summary.pdf
+└── README.md
 ```
 ## 📎 Deliverables
 
