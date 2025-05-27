@@ -18,7 +18,7 @@ Welcome! This repository presents **Aetherium**, a feature concept designed for 
 📁 aetherium-prototype
 ├── README.md
 ├── Aetherium.mp4
-├── Aetherium_Summary.pdf
+└── Aetherium_Summary.pdf
 ```
 ## 📎 Deliverables
 
