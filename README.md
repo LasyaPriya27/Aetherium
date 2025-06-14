@@ -109,7 +109,6 @@ These improve clarity and are foundational for future filtering/sorting.
 ## 👤 Created By
 
 **Lasya Priya**  
-Product Analyst Intern  
 📧 [lasyapriya.275@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanalasyapriya/)
 
